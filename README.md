@@ -1,6 +1,6 @@
 ## - 👋 Olá, bem vindo ao QuizBíblico repos
 - 👀 Aqui você vai conhecer o site do app Quiz Bíblico, um joguinho de perguntas bíblicas para Android que vai levar conhecimento bíblico e diversão ao mesmo tempo.
-- 🌱 Atualmente está em faze de desenvolvimento, porém já está com muitas perguntas legais para que quiser fazer parte da equipe de testes.
+- 🌱 Já disponível na [PlayStory: Top Cristão Quiz](https://play.google.com/store/apps/details?id=com.konvict.bibliaquiz)
 - 💞️ Deseja se juntar a nós e ajudar com os testes de excelente app?
 - 📫 Fale comigo por aqui ou pelo email quiz-biblico@hotmail.com
 - 😄 Deus abençoe!
