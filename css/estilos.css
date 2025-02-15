@@ -13,7 +13,7 @@ body{
 }
 .header h2{
     color: #FFc107;
-    text-shadow: 2px 3px 3px rgb(157, 138, 167);
+    text-shadow: 2px 3px 3px rgb(83, 34, 95);
     
 }
 
@@ -36,4 +36,10 @@ main{
 }
 main ul{
     list-style: none;
+}
+
+.print{
+    border: 1px solid #DA3938;
+    width: 100%;
+    max-height: 500px ;
 }
