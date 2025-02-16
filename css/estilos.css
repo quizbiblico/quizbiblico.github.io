@@ -8,18 +8,18 @@ body{
 
 .header{
     background-color: #DA3938;
-    justify-content:space-evenly;
-    display: flex;
+/*     justify-content:space-evenly;
+    display: flex; */
 }
-.header h2{
+.header .navbar-brand{
     color: #FFc107;
-    text-shadow: 2px 3px 3px rgb(83, 34, 95);
+    text-shadow: 2px 4px 3px rgb(40, 14, 46);
     
 }
 
 .header img{
-   width: 90px;
-   height: 90px;
+   width: 60px;
+   height: 60px;
 }
 
 .header ul{
@@ -31,7 +31,7 @@ body{
 main{
     background-color: antiquewhite;
     border-top: 1px solid burlywood;
-    border-radius: 5px;
+    border-radius: 0 0 5px 5px;
 
 }
 main ul{
@@ -39,7 +39,7 @@ main ul{
 }
 
 .print{
-    border: 1px solid #DA3938;
+    border: 2px solid #DA3938;
     width: 100%;
     max-height: 500px ;
 }
